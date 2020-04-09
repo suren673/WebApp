@@ -161,7 +161,7 @@ position: absolute;
 </style>
 <body>
 <div id="headlinks">
-<p style="text-align:right"><a href="">Business</a>&#160;&#160;<a href="">Contact Us</a></p>
+<p style="text-align:right"><a href="">Business</a>&#160;&#160;<a href="">Contact Us-B2-G8</a></p>
 </div><br>
 <img src="logopost.jpg" alt="HTML5 Icon" style="width:325px;height:185px;position:absolute;left:60px;top:10px;">
 <b>
